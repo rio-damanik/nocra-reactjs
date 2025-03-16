@@ -5,7 +5,7 @@ class App extends React.Component {
     return (
       <>
         <div>Hello World</div>
-        <div>Ini Adalah Update REACT WITH NO CRA</div>
+        <div>Ini Adalah Update REACT WITH NO CRA SUDAH OK</div>
       </>
     );
   }
